@@ -18,6 +18,10 @@ class vivoPhone extends smartphone{
   }
   void Camera(){
     System.err.println("Camera ");
+    
+  }
+  void Calling(){
+    System.out.println("Make a call.");
   }
 }
 public class abstract_methods {
