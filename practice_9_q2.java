@@ -7,5 +7,6 @@ class Cylinder{
 public class practice_9_q2 {
     public static void main(String[]args){
    Cylinder c1=new Cylinder(10,20);
+   Cylinder c2=new Cylinder(30,40);
     }
 }
